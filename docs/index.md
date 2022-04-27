@@ -36,7 +36,8 @@ NullPointer 是一个基于 [nonebot](https://github.com/nonebot/nonebot2) 的 F
 #### emoji融合  
 | 命令 | 功能 |  
 | :- | :- |  
-| emoji+emoji | 融合两个emoji |  
+| emoji+emoji | 融合两个emoji | 
+
 **注意！必须是emoji，而不是QQ表情**
 
 
