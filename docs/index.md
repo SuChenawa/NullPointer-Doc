@@ -1,71 +1,5 @@
-<style>
-a{
-    color:black
-}
-a:hover{
-    color:black
-}
-.btn{
-    background-color:rgb(56, 106, 32);
-    border:none;
-    width:150px;
-    height:50px;
-    border-radius: 25px;
-    justify-content:center;
-    text-decoration:none;
-    transition: .25s;
-    transition-property: all;
-    transition-duration: 0.25s;
-    transition-timing-function: ease;
-    transition-delay: 0s;
-}
-.ft-btn{
-    background-color:rgb(217, 231, 203);
-    border:none;
-    width:150px;
-    height:50px;
-    border-radius: 25px;
-    justify-content:center;
-    text-decoration:none;
-    transition: .25s;
-    transition-property: all;
-    transition-duration: 0.25s;
-    transition-timing-function: ease;
-    transition-delay: 0s;
-}
-.ft-btn:hover{
-    background-color:rgb(142, 251, 112);
-    border:none;
-    width:150px;
-    height:50px;
-    border-radius: 25px;
-    justify-content:center;
-    text-decoration:none;
-    transition: .25s;
-    transition-property: all;
-    transition-duration: 0.25s;
-    transition-timing-function: ease;
-    transition-delay: 0s;
-}
-.btn:hover{
-    background-color:rgb(99, 175, 78);
-    border:none;
-    width:150px;
-    height:50px;
-    border-radius: 25px;
-    justify-content:center;
-    text-decoration:none;
-    transition: .25s;
-    transition-property: all;
-    transition-duration: 0.25s;
-    transition-timing-function: ease;
-    transition-delay: 0s;
-}
-.textcolor-white{
-    color：white;
-}
-</style>
-<font color=red>**请先阅读"用户协议 及 隐私政策"**</font>
+
+**请先阅读"用户协议 及 隐私政策"**
 
 [《用户协议》](/UserAgreement/index) [《隐私政策》](/privacy)
 	
@@ -83,13 +17,13 @@ NullPointer 是一个基于 [nonebot](https://github.com/nonebot/nonebot2) 的 F
 
 ### 快速导航  
 
-<button class="btn">[快速了解](/startup.md)</button>
+[快速了解](/startup.md)  
 
-<button class="ft-btn">[更新日志](/changelog.md)</button>
+[更新日志](/changelog.md)  
 
 ### 功能一览
 
-#### <font color=yellow>写在前面</font>  
+#### 写在前面
 指令框中 **方括号`[]`** 为可选参数， **尖括号`<>`** 为必选参数  
 
 指令中**无需**把括号写进去
