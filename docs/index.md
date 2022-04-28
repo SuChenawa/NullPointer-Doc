@@ -28,17 +28,10 @@ NullPointer 是一个基于 [nonebot](https://github.com/nonebot/nonebot2) 的 F
 
 指令中**无需**把括号写进去
 
-#### 求签  
-| 命令 | 功能 |  
-| :- | :- |  
-| .求签 | 取得一张随机抽签 |  
+**功能用法将会在重构后开放至此处**  
+**在此之前，可以进入 [Nullpointer前身](http://np.furbot.icu/) 来查看相关指令**  
 
-#### emoji融合  
-| 命令 | 功能 |  
-| :- | :- |  
-| emoji+emoji | 融合两个emoji | 
 
-**注意！必须是emoji，而不是QQ表情**
 
 
 #### NullPointer & 反馈 相关
